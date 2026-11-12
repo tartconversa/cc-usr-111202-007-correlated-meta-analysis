@@ -1,0 +1,12 @@
+[
+  {
+    "path": "fixtures/meta.json",
+    "sha256": "0ca30423cc0ac7892ac997ea5cd7a45905c48ea1822609b54ca56021c8186706",
+    "size_bytes": 380
+  },
+  {
+    "path": "fixtures/studies.json",
+    "sha256": "56a25f26e5b9f519514d5841e86e5020519bf879dd989587e8b52c6001bc8d31",
+    "size_bytes": 1245
+  }
+]
